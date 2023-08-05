@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import Search from './Components/Search'
 import './App.css';
 
 function App() {
